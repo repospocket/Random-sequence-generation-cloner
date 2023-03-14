@@ -5,4 +5,4 @@ Logistic regression is the (first) model used to fit the database and predict if
 (in independent probability all numbers are equally likely to win and a new event is not affected by the outcome of past or future events).  
 1. Open a terminal or command prompt in the directory.  
 2. Type "python .\lotto.py" and press enter.  
-![image](sc1.png)  
+![image](sc1.jpg)  
